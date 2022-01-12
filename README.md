@@ -10,4 +10,4 @@
 
 
 # 실행영상
-<img width="80%" src="https://user-images.githubusercontent.com/56301498/149151948-e1dd69dd-cb0e-4b0f-833f-9d813b05c80c.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/56301498/149151948-e1dd69dd-cb0e-4b0f-833f-9d813b05c80c.gif"/>
